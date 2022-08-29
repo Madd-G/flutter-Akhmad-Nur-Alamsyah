@@ -12,3 +12,4 @@ Tables
 |03 | [Basic Version and Branch Management (Git)](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/03_Basic%20Version%20and%20Branch%20Management%20(Git)) | 
 |04 | [Introduction Mobile App Development](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/04_Introduction%20Mobile%20App%20Development) |
 |05 | [Introduction to Algorithm and Dart Programming](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/05_Introduction%20to%20Algorithm%20and%20Dart%20Programming) |
+|06 | [Basic Dart Programming](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/06_Basic%20Dart%20Programming) |
