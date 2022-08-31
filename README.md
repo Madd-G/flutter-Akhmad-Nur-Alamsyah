@@ -14,3 +14,4 @@ Tables
 |05 | [Introduction to Algorithm and Dart Programming](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/05_Introduction%20to%20Algorithm%20and%20Dart%20Programming) |
 |06 | [Basic Dart Programming](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/06_Basic%20Dart%20Programming) |
 |07 | [Branching Looping Fungsi](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/07_Branching%20Looping%20Function) |
+|08 | [Advance Function - Async-Await](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/08_Advance%20Function-%20Async-Await) |
