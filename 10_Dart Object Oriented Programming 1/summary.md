@@ -17,12 +17,12 @@ Class merupakan abstraksi dari sebuah benda (object). Class memiliki ciri-ciri y
 
 ##### Membuat class
 Untuk membuat class menggunakan kata kunci <code>class</code>. Class memiliki nama. Detail class diletakkan dalam kurawal.
-    ```
+    
     Class Animal {
-      // property
-     // method
+        // property
+        // method
     }
-    ```
+    
 ##### Membuat object
 Object merupakan bentuk sebenarnya dari class. Disebut juga *instance of class*. Object diperlukan seperti data.
     
