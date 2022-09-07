@@ -17,3 +17,4 @@ Tables
 |08 | [Advance Function - Async-Await](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/08_Advance%20Function-%20Async-Await) |
 |09 | [Collection](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/09_Collection) |
 |10 | [Dart Object Oriented Programming 1](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/10_Dart%20Object%20Oriented%20Programming%201) |
+|11 | [Dart Object Oriented Programming 2](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/11_Dart%20Object%20Oriented%20Programming%202) |
