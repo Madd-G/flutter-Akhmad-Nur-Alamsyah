@@ -20,3 +20,6 @@ Pada main.dart terdapat method main yang akan dijalankan pertama kali oleh flutt
 &nbsp;
 ### Hasil
 <img src='screenshot/hasil.png' height=350 width=150>
+
+https://user-images.githubusercontent.com/61916375/190293051-bcf42a15-845a-4b66-b579-8b955e852346.mp4
+
