@@ -20,3 +20,4 @@ Tables
 |11 | [Dart Object Oriented Programming 2](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/11_Dart%20Object%20Oriented%20Programming%202) |
 |12 | [Introduction Flutter Widget](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/12_Introduction%20Flutter%20Widget) |
 |13 | [Platform Widget](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/13_Platform%20Widget) |
+|14 | [Flutter Command Line Interface & Package Management](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/dev/14_Flutter%20CLI%20and%20Package%20Management) |
