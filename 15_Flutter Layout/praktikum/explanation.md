@@ -29,7 +29,9 @@ Menggunakan ListView.builder dengan scrollDirection vertikal dan berjumlah sejum
 
 <img src='screenshot/grid-view.png' height=400>
 
-Menggunakan GridView.builder dengan gridDelegate SliverGridDelegateWithFixedCrossAxisCount dengan jumlah crossAxisCount (row) berjumlah 4, jumlah item 32, dan juga membuat itemBuilder yang akan membuat widget didalamnya sejumlah banyak item.
+<img src='screenshot/icons.png' height=400>
+
+Menggunakan GridView.builder dengan gridDelegate SliverGridDelegateWithFixedCrossAxisCount dengan jumlah crossAxisCount (row) berjumlah 4, jumlah item sebanyak jumlah item pada list icons, dan juga membuat itemBuilder yang akan membuat widget didalamnya sejumlah banyak item.
 &nbsp;
 
 ## Hasil:
