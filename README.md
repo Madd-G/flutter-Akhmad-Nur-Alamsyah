@@ -26,3 +26,4 @@ Tables
 |17 | [Form Input Button](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/17_Form%20Input%20Button) |
 |18 | [Form Picker](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/18_Form%20Picker) |
 |19 | [Dialog Bottom Sheet](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/19_Dialog%20Bottom%20Sheet) |
+|20 | [Flutter Navigation](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/20_Flutter%20Navigation) |
