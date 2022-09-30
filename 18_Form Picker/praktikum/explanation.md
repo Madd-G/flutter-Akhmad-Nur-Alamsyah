@@ -65,3 +65,10 @@ Pada class NewScreen ini hanya akan menampilkan data yang diterima dari class Ho
 &nbsp;
 
 # Hasil
+
+https://user-images.githubusercontent.com/61916375/193241914-e30a3606-bb85-426f-a34c-977db79e20c5.mov
+
+Sudah mengumpulkan tepat waktu tapi ketika push section baru ditolak (rejected) ketika di force push (git push -f origin branch) malah hilang video section 17 dan 18. Sudah bilang mas Ade.
+
+
+
