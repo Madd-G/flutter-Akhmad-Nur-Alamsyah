@@ -26,3 +26,9 @@ Pada halaman add contact terdapat Form yang berisi TextFormField untuk menginput
 
 &nbsp;
 # Hasil
+
+
+
+https://user-images.githubusercontent.com/61916375/193241165-5ffb8903-564f-48ac-b982-48a8a8460e74.mov
+
+Sudah mengumpulkan tepat waktu tapi ketika push section baru ditolak (rejected) ketika di force push (git push -f origin branch) malah hilang video section 17 dan 18. Sudah bilang mas Ade. 
