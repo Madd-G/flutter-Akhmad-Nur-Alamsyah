@@ -27,3 +27,4 @@ Tables
 |18 | [Form Picker](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/18_Form%20Picker) |
 |19 | [Dialog Bottom Sheet](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/19_Dialog%20Bottom%20Sheet) |
 |20 | [Flutter Navigation](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/20_Flutter%20Navigation) |
+|21 | [Flutter State Management (Provider)](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/21_Flutter%20Global%20State%20Management) |
