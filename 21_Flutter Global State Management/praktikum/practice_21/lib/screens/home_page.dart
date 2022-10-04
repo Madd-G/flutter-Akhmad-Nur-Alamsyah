@@ -51,13 +51,15 @@ class _HomePageState extends State<HomePage> {
                           ),
                         ],
                       ),
-                      trailing: GestureDetector(onTap: () {
-                        users.removeAt(index);
-                      }, child: Consumer(
+                      trailing: Consumer<User>(
                         builder: (BuildContext context, value, Widget? child) {
-                          return const Icon(Icons.delete);
+                          return GestureDetector(
+                              onTap: () {
+                                users.removeAt(index);
+                              },
+                              child: const Icon(Icons.delete));
                         },
-                      )),
+                      ),
                     ),
                   ),
                 );
