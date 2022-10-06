@@ -1,4 +1,4 @@
-# **(22) Flutter State Management (BLoC)**
+# **(23) Flutter Animation**
 
 ## Nama: Akhmad Nur Alamsyah
 &nbsp;
