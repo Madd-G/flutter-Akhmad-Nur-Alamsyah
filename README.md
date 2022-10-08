@@ -29,3 +29,5 @@ Tables
 |20 | [Flutter Navigation](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/20_Flutter%20Navigation) |
 |21 | [Flutter State Management (Provider)](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/21_Flutter%20Global%20State%20Management) |
 |22 | [Flutter State Management (BLoC)](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/22_Flutter%20State%20Management%20(BLoC)) |
+|23 | [Flutter Animation](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/23_Flutter%20Animation) |
+|24 | [Storage](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/24_Storage) |
