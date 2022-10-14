@@ -31,3 +31,5 @@ Tables
 |22 | [Flutter State Management (BLoC)](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/22_Flutter%20State%20Management%20(BLoC)) |
 |23 | [Flutter Animation](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/23_Flutter%20Animation) |
 |24 | [Storage](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/24_Storage) |
+|25 | [JSON Serialization:Deserialization](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/25_JSON%20serialization:deserialization) |
+|26 | [MVVM Architecture](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/26_MVVM%20Architecture) |
