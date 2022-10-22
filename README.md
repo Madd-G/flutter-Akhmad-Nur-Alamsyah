@@ -35,3 +35,4 @@ Tables
 |26 | [MVVM Architecture](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/26_MVVM%20Architecture) |
 |27 | [Finite State Machine](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/27_Finite%20State%20Machine) |
 |28 | [UI Testing](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/28_UI%20Testing) |
+|   | [Weekly](https://github.com/Madd-G/flutter-Akhmad-Nur-Alamsyah/tree/main/weekly) |
